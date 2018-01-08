@@ -1,0 +1,38 @@
+/*Change all fonts to Verdana, background to black, and align all text to center*/
+body{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+/*Header 1 style*/
+h1{
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+/*h2 style*/
+h2{
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+/*p style*/
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+/*link style*/
+.download{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/*copyright style*/
+#copyright{
+  text-align: right;
+  color: gray;
+}
